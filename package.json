@@ -1,0 +1,7 @@
+{
+  "name": "import-sort-style-choffmeister",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Hoffmeister <mail@choffmeister.de>",
+  "license": "MIT"
+}
